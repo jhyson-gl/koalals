@@ -1,2 +1,2 @@
-# koalals
+# koalas
 🐨
